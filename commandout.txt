@@ -1,0 +1,15 @@
+E:\lecture\new java\Tutorial_1\commandout.txt
+E:\lecture\new java\Tutorial_1\output.txt
+E:\lecture\new java\Tutorial_1\sunTutorialWork\An Accountant and his Frog.txt
+E:\lecture\new java\Tutorial_1\sunTutorialWork\Any Engineers out there - this is for you - is a long read.txt
+E:\lecture\new java\Tutorial_1\sunTutorialWork\chicken.txt
+E:\lecture\new java\Tutorial_1\sunTutorialWork\Eddy Current - A fable.txt
+E:\lecture\new java\Tutorial_1\sunTutorialWork\GRANDMA.TXT
+E:\lecture\new java\Tutorial_1\sunTutorialWork\How to get rid of Telemarketers.txt
+E:\lecture\new java\Tutorial_1\sunTutorialWork\My favourite One-Liners.txt
+E:\lecture\new java\Tutorial_1\sunTutorialWork\Ten Commandments of Electrical Safety.txt
+E:\lecture\new java\Tutorial_1\sunTutorialWork\The Parrot with Attitude.txt
+E:\lecture\new java\Tutorial_1\sunTutorialWork\The War on General Purpose computing-URL.txt
+E:\lecture\new java\Tutorial_1\sunTutorialWork\TOASTERS.TXT
+E:\lecture\new java\Tutorial_1\sunTutorialWork\ebooks-EPubs\Cory Doctorow\Readme.txt
+E:\lecture\new java\Tutorial_1\TutorialFiles\README.txt
